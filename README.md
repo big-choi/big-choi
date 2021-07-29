@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=Breezy&fontSize=70)
 
 <!--
 **big-choi/big-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
