@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/></a>
 
 ### 💻 Social
-<img a href="https://www.instagram.com/bo.ss__choi/?hl=ko" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/bo.ss__choi/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
