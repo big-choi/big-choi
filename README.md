@@ -3,7 +3,7 @@
 
 
 
-### 💪 Tech Stack</h3><br>
+## 💪 Tech Stack</h3><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Spring&logoColor=black"/></a>
@@ -12,15 +12,14 @@
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/></a>
 
-### 💻 Social
+## 💻 Social
 <a href="https://www.instagram.com/bo.ss__choi/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@big-choi"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 </br>
 </br>
 
-![big-choi's github stats](https://github-readme-stats.vercel.app/api?username=big-choi&show_icons=true)
-[![big-choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=big-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/big-choi)
+![big-choi's github stats](https://github-readme-stats.vercel.app/api?username=big-choi&show_icons=true) [![big-choi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=big-choi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/big-choi)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbig-choi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 <!--
