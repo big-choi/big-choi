@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=250&section=header&text=Boseong&nbsp;Choi&fontSize=48)
+![header](http://drive.google.com/uc?export=view&id=14qWxhFFOR3Ct6VM_3RA466hLZMOUXf2G)
 
 
 <a href="https://www.instagram.com/bo.ss__choi/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
