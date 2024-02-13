@@ -1,5 +1,3 @@
-![header](http://drive.google.com/uc?export=view&id=14qWxhFFOR3Ct6VM_3RA466hLZMOUXf2G)
-
 <p align="center">
   <a href="https://www.instagram.com/bo.ss__choi/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://velog.io/@boseong-choi"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
